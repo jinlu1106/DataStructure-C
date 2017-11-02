@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1509439811 source:e:\c language\数据结构\二叉树\prebitr1.c
+	<stdio.h>
+	"bilink1.h"
+	"compbitr.h"
+
+1509439639 e:\c language\数据结构\二叉树\bilink1.h
+	"stdio.h"
+	"stdlib.h"
+
+1509450314 e:\c language\数据结构\二叉树\compbitr.h
+	"stdio.h"
+	"bilink1.h"
+

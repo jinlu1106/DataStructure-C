@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509442082 source:e:\c language\数据结构\线性表的链式存储\address_list.c
+	<stdio.h>
+	<stdlib.h>
+	"address_li.h"
+
+1509442211 e:\c language\数据结构\线性表的链式存储\address_li.h
+	<stdio.h>
+	"stdlib.h"
+	"string.h"
+
